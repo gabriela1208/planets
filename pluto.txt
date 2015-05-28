@@ -1,1 +1,2 @@
 is this a dog or a planet?
+pluto is neither a dog nor a planet.
